@@ -1,0 +1,26 @@
+
+{
+ "sprint_30m": {
+ "distance_m": 30,
+ "time_s": 4.50,
+ "top_speed_m_s": 6.667,
+ "reaction_s": 0.18,
+ "score": 82,
+ "flags": []
+ },
+ "vertical_jump": {
+ "flight_time_s": 0.48,
+ "height_cm": 28.2,
+ "knee_angle_deg": 68,
+ "score": 71,
+ "flags": []
+ },
+ "pushups_60s": {
+ "reps": 45,
+ "quality_pct": 85,
+ "score": 77,
+ "flags": []
+ },
+  "overall_score": 77.1
+ 
+ }
